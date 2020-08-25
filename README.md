@@ -1,2 +1,2 @@
 # cricket
-A site about Cricket
+A site about Cricket(sport)
