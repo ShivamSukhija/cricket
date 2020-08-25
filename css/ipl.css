@@ -1,0 +1,14 @@
+@font-face{
+    font-family: Lxnd;
+    src: url(Lexend_Deca/LexendDeca-Regular.ttf);
+}
+body{
+	margin: 2%;
+	padding: 4px;
+	font-family: 'LXND'
+}
+header{
+	background-color: #606060;
+	background-image: url(ipl.jfif);
+	background-size: 100%;
+}
